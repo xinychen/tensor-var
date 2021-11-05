@@ -1,6 +1,8 @@
 # Kronecker
 Kronecker product decomposition/approximation.
 
+1. Nearest Kronecker Product (NKP) problem on incomplete and noisy data?
+
 <br>
 
 ## References
